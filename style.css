@@ -231,16 +231,6 @@ section { padding: 6rem 0; }
   pointer-events: none;
 }
 
-/* Linha circular decorativa verde */
-.hero-geo-2 {
-  position: absolute;
-  right: 100px; top: 12%;
-  width: 180px; height: 180px;
-  border: 1px solid rgba(77,125,99,0.2);
-  border-radius: 50%;
-  pointer-events: none;
-}
-
 /* Quadrado rotacionado verde */
 .hero-geo-3 {
   position: absolute;
